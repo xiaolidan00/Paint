@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_color" android:icon="@drawable/color_lens" android:title="color" app:showAsAction="always"/>
+    <item android:id="@+id/action_edit" android:icon="@drawable/edit" android:title="edit" app:showAsAction="always"/>
+    <item android:id="@+id/action_pic" android:icon="@drawable/photo" android:title="pic" app:showAsAction="always"/>
+    <item android:id="@+id/action_more" android:icon="@drawable/more" android:title="more" app:showAsAction="always"/>
+
+</menu>
